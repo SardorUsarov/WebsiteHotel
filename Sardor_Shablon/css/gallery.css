@@ -1,0 +1,62 @@
+body{
+    background-color: black;
+}
+#gallery{
+    width: 1300px;
+    height: 650px;
+    margin: 20px auto;
+    background-color: #450014;
+    border: darkred;
+    border-radius: 5px;
+    padding: 5px;
+    text-align: center;
+}
+.gallery_title{
+    text-align: center;
+    color: #d4c732;
+}
+.photo{
+    width: 20%;
+    height: 200px;
+    border: 4px solid #b8860b;
+    border-radius: 20px;
+    display: inline-block;
+    margin: 5px;
+    padding: 5px;
+    background-color: #e6e6e6;
+}
+.photo img{
+    width: 100%;
+    height: 180px;
+    opacity: 0.6;
+}
+.photo img:hover{
+    opacity: 1.0;
+    cursor: pointer;
+}
+.w-100{
+    width: 100%;
+    height: 350px;
+}
+.container-fluid{
+    padding:0px!important;
+    margin: 0px!important;
+}
+#myfooter{
+    width: 100%;
+    height: auto ;
+    background-color: #450014;
+    font-size: 1em;
+    text-align: center;
+    padding: 20px;
+}
+.carousel-item {
+    border-bottom: 10px solid #070768;
+    border-top: 10px solid #070768;
+}
+.logo{
+    width: 150px;
+}
+.container-fluid{
+    background-color: #450014!important;
+}

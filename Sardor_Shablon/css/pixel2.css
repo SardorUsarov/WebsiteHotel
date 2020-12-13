@@ -1,0 +1,225 @@
+/*Shahzod Maxammatov*/
+/*Tel:(90) 192-99-00*/
+/*Telegram:@Shakhzod_Developer777*/
+@media screen and (max-width: 1240px) and (min-width: 651px) {
+    .mysite {
+        width: 95%;
+        height: auto;
+        margin: 0 auto;
+        /*border: 2px solid #ff3900;*/
+    }
+    .photo_one h1{
+        font-size: 35pt;
+    }
+    .photo_one h2{
+        font-size: 35pt;
+    }
+    .follow{
+        font-size: 12pt;
+    }
+    .photo_one input[type="submit"]{
+        width:160px;
+        height: 50px;
+    }
+    .our_rooms h1{
+        font-size: 32pt;
+    }
+    .our_rooms_photo .room1 .family_room input[type="submit"]{
+        font-size: 8pt;
+    }
+    .our_rooms_photo .from_30 h1{
+        font-size: 12px;
+    }
+    .our_rooms_photo .room2 .luxary_room input[type="submit"]{
+        font-size: 8pt;
+    }
+    .our_rooms_photo .room3 .single_room input[type="submit"]{
+        font-size: 8pt;
+    }
+    .our_rooms_photo .room4 .double_room input[type="submit"]{
+        font-size: 8pt;
+    }
+    .our_rooms_photo .room5 .family_room input[type="submit"]{
+        font-size: 8pt;
+    }
+    .our_rooms_photo .room6 .family_room input[type="submit"]{
+        font-size: 8pt;
+    }
+    .best_room_photo{
+        width:75%;
+    }
+    .best_room_text{
+        width: 46%;
+        height: 220px;
+        padding-left: 10px;
+        padding-top: 10px;
+        padding-right: 10px;
+    }
+    .best_room_text h1{
+        padding-top: 0px;
+        font-size: 25pt;
+    }
+    .best_room_text h2{
+        padding-top: 0px;
+        font-size: 25pt;
+    }
+    .best_room_text p{
+        font-size:10px;
+        line-height:18px;
+    }
+    .our_services_text h1{
+        font-size:35px;
+    }
+    .restaurant h1{
+        font-size:20px;
+    }
+    .restaurant p{
+        font-size: 10px;
+    }
+    .sports_club h1{
+        padding-top: 2px;
+        font-size: 18px;
+    }
+    .sports_club p{
+        font-size: 10px;
+    }
+    .pick_up h1{
+        font-size: 18px;
+    }
+    .pick_up p{
+        font-size: 10px;
+    }
+    .find_your_text{
+        padding-left: 10px;
+    }
+    .find_your_text h1{
+        font-size: 28px;
+    }
+    .find_your_text p{
+        padding-top: 0px;
+        font-size: 9pt;
+        line-height: 21px;
+    }
+    .find_your_text input[type="submit"]{
+        width: 60%;
+        height: 45px;
+    }
+    .from_the_title h1{
+        font-size: 28px;
+        /*border: 1px solid red;*/
+    }
+    .from_the_text{
+        width: 70%;
+    }
+    .from_the_text p{
+        font-size: 10px;
+    }
+    .andrew_text{
+        width: 60%;
+        /*border: 1px solid red;*/
+    }
+    .andrew_text h1{
+        font-size: 16px;
+    }
+    .andrew_text h4{
+        font-size: 10px;
+    }
+    .keep_clam_text h1{
+        font-size: 30pt;
+    }
+    .keep_clam_text h2{
+        font-size: 28pt;
+    }
+    .keep_clam_text i{
+        font-size: 50px;
+    }
+    .latest_news h1{
+        font-size: 34pt;
+    }
+    .this_is_one_text h1{
+        font-size: 12pt;
+    }
+    .this_is_one_text h4{
+        font-size: 12px;
+    }
+    .this_is_one_text p{
+        font-size: 7pt;
+        line-height: 18px;
+    }
+    .this_is_one_text input[type="submit"]{
+        width: 70%;
+        font-size: 10pt;
+    }
+    .this_is_two_photo{
+        padding-left: 15px;
+    }
+    .this_is_two_photo h1{
+        font-size: 10pt;
+    }
+    .this_is_two_photo h4{
+        font-size: 10pt;
+    }
+    .this_is_three_text h1{
+        font-size: 12pt;
+    }
+    .this_is_three_text h4{
+        font-size: 12px;
+    }
+    .this_is_three_text p{
+        font-size: 7pt;
+        line-height: 18px;
+    }
+    .this_is_three_text input[type="submit"]{
+        width: 70%;
+        font-size: 9pt;
+    }
+    .about h1{
+        font-size: 20pt;
+    }
+    .about p{
+        font-size: 7pt;
+    }
+    .about_icon i{
+        font-size: 30px;
+    }
+    .about_adress{
+        padding-left: 8px;
+    }
+    .about_adress h1{
+        font-size: 10px;
+    }
+    .about_adress h2{
+        font-size:8px;
+    }
+    .phone_number{
+        padding-left: 9px;
+    }
+    .phone_icon i{
+        font-size: 28px;
+    }
+    .phone_number h1{
+        font-size: 10px;
+    }
+    .phone_number h2{
+        font-size:10px;
+    }
+    .quick_links h2{
+        font-size: 15px;
+    }
+    .accomodation h1{
+        font-size: 9px;
+    }
+    .noordwijk h1{
+        padding-left: 5px;
+        font-size: 9px;
+    }
+    .connect_with_us h2{
+        font-size: 14px;
+    }
+    .connect_with_us_icon i{
+        font-size: 14px;
+    }
+    .myfooter_copy h4{
+        font-size: 0.7em;
+    }
+}
